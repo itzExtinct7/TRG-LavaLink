@@ -6,7 +6,7 @@ layout: default
 
 __Table of Content__
 - [Number of Nodes](#how-many-nodes-are-there)
-- [Domains of Nodes](#what-are-the-domains-of-node)
+- [Domains of Nodes](#what-are-the-domains-of-nodes)
 - [Error Info](#why-nodes-domain-are-not-showing-anything)
 - [Connection](#connection)
   - [Node 1](#node-1)
@@ -25,7 +25,7 @@ __Table of Content__
 ## How many nodes are there
 > There are 5 nodes to connect with. All the nodes are same but are separatly hosted to ensure that everyone can use it without lag!
 
-## What are the domains for node
+## What are the domains of nodes
 > node1.lavalink.trgop.gq
 > node2.lavalink.trgop.gq
 > node3.lavalink.trgop.gq
