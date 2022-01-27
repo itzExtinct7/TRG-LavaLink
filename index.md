@@ -78,7 +78,7 @@ port: 443
 ```bash
 id: "Main"
 host: "node5.lavalink.trgop.gq"
-password: "trgop"
+password: "smandht"
 secure: true
 port: 443
 ```
