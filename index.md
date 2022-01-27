@@ -1,5 +1,6 @@
 ---
-title: "Fastest and latest Lavalink ever"
+title: "TRG LavaLink Servers"
+description: "Best, Fastest and Latest Serving LavaLink servers active 24/7"
 layout: default
 ---
 
