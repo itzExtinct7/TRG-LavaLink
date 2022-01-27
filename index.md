@@ -1,6 +1,5 @@
 ---
 title: "Fastest and latest Lavalink ever"
-<!-- permalink: / -->
 layout: default
 ---
 
