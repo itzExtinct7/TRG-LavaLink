@@ -1,6 +1,7 @@
 # TRG LavaLink
 
 Forking this repo will do nothing, and will make the waste of time
+
 This is not an actuall LavaLink code!
 
 This just has Lavalink details to connect with!
