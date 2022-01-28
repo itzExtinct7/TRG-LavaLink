@@ -5,7 +5,7 @@ permalink: "/unofficial-lavalinks"
 ---
 
 # What to do if no node is working?
-> You can use one of these lavalink servers. There are two types of Lavalink servers - **[SSL](/unofficial-lavalinks/ssl)** and **[NoSSL](/unofficial-lavalinks/nossl)**. SSL is more secure than NoSSL. But NoSSL can be more fater thn SSL Servers. But I recommend using SSL Servers!
+> You can use one of these lavalink servers. There are two types of Lavalink servers - **[SSL](/unofficial-lavalinks/ssl)** and **[NoSSL](/unofficial-lavalinks/nossl)**. SSL is more secure than NoSSL. But NoSSL can be more faster thn SSL Servers. But I recommend using SSL Servers!
 
 >  We also offer you secure severs. If they are getting slow, please mail at **contact@trgop.gq** and let us know, so that we can make more nodes!
 
