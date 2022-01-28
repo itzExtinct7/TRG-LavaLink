@@ -22,8 +22,10 @@ permalink: "/unofficial-lavalinks"
 
 >  Here is a format for posting the lavalink -
 
-> [Click to view the image](https://i.imgur.com/2i3zuZU.png)
+> [Click to view the image](https://i.imgur.com/0NWJgpN.png)
 
-> Ifyou are posting in SSL, then secure will be true and for NoSSL, it will be false
+> If you are posting in SSL, then secure will be true and for NoSSL, it will be false
 
 > If your lavalink is not using any SubDomain then just post ur domain (mydomain.com)
+
+> Do not include <> in the format. They ar just shown for help!
