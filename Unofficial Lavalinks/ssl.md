@@ -12,7 +12,7 @@ Hosted by MR EXTINCT CODES
 id: "Main"
 host: www.lavalinknodepublic.ml
 port: 443
-password: mrextinctcodes
+password: "mrextinctcodes"
 secure: true
 ```
 
