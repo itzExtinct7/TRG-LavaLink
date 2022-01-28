@@ -6,7 +6,9 @@ description: "Here are a list of Secure Lavalinks. They maybe a bit slow from No
 
 # What if a lavalink is not working?
 > Create an issue at the github repo and tell that which one is not working!
+
 ---
+
 Hosted by MR EXTINCT CODES
 
 ```bash
