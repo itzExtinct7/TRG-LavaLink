@@ -14,7 +14,7 @@ permalink: "/unofficial-lavalinks"
 
 > Your details have to be correct for getting it accepted! If we found that details are wrong, then it will get denied!
 
-> You caannot advertise any of your social except your **Portfolio Website**.
+> You cannot advertise any of your social except your **Portfolio Website**.
 
 > Your link for Portfolio website should be with a **Custom Domain**!
 
@@ -28,4 +28,4 @@ permalink: "/unofficial-lavalinks"
 
 > If your lavalink is not using any SubDomain then just post ur domain (mydomain.com)
 
-> Do not include <> in the format. They ar just shown for help!
+> Do not include <> in the format. They are just shown for help!
