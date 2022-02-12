@@ -5,6 +5,8 @@ layout: default
 permalink: "/"
 ---
 
+**ALl Lavalinks are down due to Hist changes. Will be back up in some days**
+
 __Table of Content__
 - [Official Lavalink Servers](/)
   - [Number of Nodes](#how-many-nodes-are-there)
