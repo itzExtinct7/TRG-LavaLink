@@ -37,6 +37,7 @@ permalink: "/"
 > ```
 
 > Node 3
+> ```
 > host: node3.trglavalink.gq
 > password: OnionDev
 > port: 
@@ -44,6 +45,7 @@ permalink: "/"
 > ```
 
 > Node 4
+> ```
 > host: node4.trglavalink.gq
 > password: TRGLavalink
 > port: 
