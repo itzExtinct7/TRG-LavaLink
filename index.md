@@ -24,7 +24,7 @@ permalink: "/"
 > ```
 > host: node1.trglavalink.gq
 > password: TRGDevelopment
-> port: 
+> port: 27211
 > secure: 
 > ```
 
@@ -32,7 +32,7 @@ permalink: "/"
 > ```
 > host: node2.trglavalink.gq
 > password: onionop
-> port:
+> port: 27215
 > secure: 
 > ```
 
@@ -40,15 +40,15 @@ permalink: "/"
 > ```
 > host: node3.trglavalink.gq
 > password: OnionDev
-> port: 
-> secure: false
+> port: 27216
+> secure: 
 > ```
 
 > Node 4
 > ```
 > host: node4.trglavalink.gq
 > password: TRGLavalink
-> port: 
+> port: 27217
 > secure: 
 > ```
 
@@ -56,7 +56,7 @@ permalink: "/"
 > ```
 > host: node5.trglavalink.gq
 > password: 1885trgop
-> port:
+> port: 27219
 > secure: 
 > ```
 
