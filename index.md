@@ -64,6 +64,7 @@ permalink: "/"
 
 ## Lavalink Team
 | Founder | OnionDev |
+|   ---   |    ---   |
 | Manager | Starboy  |
 
 ---
