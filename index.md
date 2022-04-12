@@ -64,7 +64,7 @@ permalink: "/"
 
 ## Lavalink Team
 > @OnionDev1885 | Founder
-
+>
 > Starboy | Manager
 
 ---
@@ -73,10 +73,10 @@ permalink: "/"
 
 ### Discord
 > Click [Here](https://development.trgop.gq/discord) to join Development and Free services server!
-
+> 
 > Click [Here](https://setupmanager.ml/giveaway) to join Giveaway Server!
 
 ### Mail
 > [contact@trgop.gq](mailto:contact@trgop.gq)
-
+> 
 > [lavalink@trgop.gq](mailto:lavalink@trgop.gq)
