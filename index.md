@@ -15,7 +15,7 @@ permalink: "/"
 >> node4.trglavalink.gq<br>
 >> node5.trglavalink.gq
 >
-> We thought of shotening the domain, so we changed it!
+> We thought of shortening the domain, so we changed it!
 
 ---
 
