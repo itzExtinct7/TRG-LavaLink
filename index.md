@@ -63,10 +63,10 @@ permalink: "/"
 ---
 
 ## Lavalink Team
+---<br>
 |Founder|Manager|<br>
 |:-----:|:-----:|<br>
 |OnionDev|Starboy|<br>
-
 ---
 
 ## Contact Me
