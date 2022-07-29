@@ -65,7 +65,7 @@ permalink: "/"
 > ```
 > host: node6.trglavalink.gq
 > password: hometown_official
-> port: 1508
+> port: 1385
 > secure: false
 > ```
 
