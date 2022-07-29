@@ -13,7 +13,8 @@ permalink: "/"
 >> node2.trglavalink.gq<br>
 >> node3.trglavalink.gq<br>
 >> node4.trglavalink.gq<br>
->> node5.trglavalink.gq
+>> node5.trglavalink.gq<br>
+>> node6.trglavalink.gq
 >
 > We thought of shortening the domain, so we changed it!
 
@@ -23,41 +24,49 @@ permalink: "/"
 > Node 1
 > ```
 > host: node1.trglavalink.gq
-> password: TRGDevelopment
-> port: 27211
-> secure: 
+> password: TRGLavaLink
+> port: 1207
+> secure: false
 > ```
 
 > Node 2
 > ```
 > host: node2.trglavalink.gq
-> password: onionop
-> port: 27215
-> secure: 
+> password: OnionDev
+> port: 1777
+> secure: false
 > ```
 
 > Node 3
 > ```
 > host: node3.trglavalink.gq
-> password: OnionDev
-> port: 27216
-> secure: 
+> password: freewh.gq
+> port: 1566
+> secure: false
 > ```
 
 > Node 4
 > ```
 > host: node4.trglavalink.gq
-> password: TRGLavalink
-> port: 27217
-> secure: 
+> password: trgop.gq
+> port: 1597
+> secure: false
 > ```
 
 > Node 5
 > ```
 > host: node5.trglavalink.gq
-> password: 1885trgop
-> port: 27219
-> secure: 
+> password: setupmanager.ml
+> port: 1508
+> secure: false
+> ```
+
+> Node 6
+> ```
+> host: node6.trglavalink.gq
+> password: hometown_official
+> port: 1508
+> secure: false
 > ```
 
 ---
