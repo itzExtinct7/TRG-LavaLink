@@ -126,16 +126,14 @@ CPU Usage: 1.69% (Average)
 
 ## Lavalink Team
 > Founder: OnionDev<br>
-> Manager: Starboy
+> Manager: Starboy (Shinchan se bhi jyada Shararti Balak), LavaManager (Ek ajeeb insaan)
 
 ## Contact Me
 
 ### Discord
 > Click [Here](https://development.trgop.gq/discord) to join Development and Free services server!
-> 
 > Click [Here](https://setupmanager.ml/giveaway) to join Giveaway Server!
 
 ### Mail
 > [contact@trgop.gq](mailto:contact@trgop.gq)
-> 
 > [lavalink@trgop.gq](mailto:lavalink@trgop.gq)
