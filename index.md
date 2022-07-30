@@ -7,7 +7,7 @@ permalink: "/"
 # Getting Started
 
 ## Number of Nodes
-> We give 5 nodes!
+> We give 6 nodes!
 >
 >> node1.trglavalink.gq<br>
 >> node2.trglavalink.gq<br>
@@ -68,6 +68,70 @@ permalink: "/"
 > port: 1385
 > secure: false
 > ```
+
+## Node Info
+# Node 1
+```
+RAM: 1GB
+Disk: 3GB
+CPU Usage: 1% (Average)
+```
+
+---
+
+# Node 1
+```
+RAM: 1GB
+Disk: 3GB
+CPU Usage: 1% (Average)
+```
+
+---
+
+# Node 1
+```
+RAM: 1GB
+Disk: 3GB
+CPU Usage: 1% (Average)
+```
+
+---
+
+# Node 1
+```
+RAM: 1GB
+Disk: 3GB
+CPU Usage: 1% (Average)
+```
+
+---
+
+# Node 1
+```
+RAM: 1GB
+Disk: 3GB
+CPU Usage: 1% (Average)
+```
+
+---
+
+# Node 1
+```
+RAM: 1GB
+Disk: 3GB
+CPU Usage: 1% (Average)
+```
+
+---
+
+# Node 1
+```
+RAM: 1GB
+Disk: 3GB
+CPU Usage: 1% (Average)
+```
+
+---
 
 ---
 
