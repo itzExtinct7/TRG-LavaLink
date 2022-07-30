@@ -131,9 +131,9 @@ CPU Usage: 1.69% (Average)
 ## Contact Me
 
 ### Discord
-> Click [Here](https://development.trgop.gq/discord) to join Development and Free services server!
+> Click [Here](https://development.trgop.gq/discord) to join Development and Free services server!<br>
 > Click [Here](https://setupmanager.ml/giveaway) to join Giveaway Server!
 
 ### Mail
-> [contact@trgop.gq](mailto:contact@trgop.gq)
+> [contact@trgop.gq](mailto:contact@trgop.gq)<br>
 > [lavalink@trgop.gq](mailto:lavalink@trgop.gq)
