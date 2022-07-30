@@ -79,11 +79,29 @@ CPU Usage: 1% (Average)
 
 ---
 
-# Node 1
+# Node 2
 ```
 RAM: 1GB
 Disk: 3GB
-CPU Usage: 1% (Average)
+CPU Usage: 0.95% (Average)
+```
+
+---
+
+# Node 3
+```
+RAM: 1GB
+Disk: 3GB
+CPU Usage: 0.92% (Average)
+```
+
+---
+
+# Node 4
+```
+RAM: 1GB
+Disk: 3GB
+CPU Usage: 2.40% (Average)
 ```
 
 ---
@@ -92,7 +110,7 @@ CPU Usage: 1% (Average)
 ```
 RAM: 1GB
 Disk: 3GB
-CPU Usage: 1% (Average)
+CPU Usage: 1.65% (Average)
 ```
 
 ---
@@ -101,37 +119,8 @@ CPU Usage: 1% (Average)
 ```
 RAM: 1GB
 Disk: 3GB
-CPU Usage: 1% (Average)
+CPU Usage: 1.69% (Average)
 ```
-
----
-
-# Node 1
-```
-RAM: 1GB
-Disk: 3GB
-CPU Usage: 1% (Average)
-```
-
----
-
-# Node 1
-```
-RAM: 1GB
-Disk: 3GB
-CPU Usage: 1% (Average)
-```
-
----
-
-# Node 1
-```
-RAM: 1GB
-Disk: 3GB
-CPU Usage: 1% (Average)
-```
-
----
 
 ---
 
