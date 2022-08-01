@@ -106,7 +106,7 @@ CPU Usage: 2.40% (Average)
 
 ---
 
-# Node 1
+# Node 5
 ```
 RAM: 1GB
 Disk: 3GB
@@ -115,7 +115,7 @@ CPU Usage: 1.65% (Average)
 
 ---
 
-# Node 1
+# Node 6
 ```
 RAM: 1GB
 Disk: 3GB
