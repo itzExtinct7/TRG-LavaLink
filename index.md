@@ -9,12 +9,12 @@ permalink: "/"
 ## Number of Nodes
 > We give 6 nodes!
 >
->> node1.trglavalink.gq<br>
->> node2.trglavalink.gq<br>
->> node3.trglavalink.gq<br>
->> node4.trglavalink.gq<br>
->> node5.trglavalink.gq<br>
->> node6.trglavalink.gq
+>> n1.trglavalink.gq<br>
+>> n2.trglavalink.gq<br>
+>> n3.trglavalink.gq<br>
+>> n4.trglavalink.gq<br>
+>> n5.trglavalink.gq<br>
+>> n6.trglavalink.gq
 >
 > We thought of shortening the domain, so we changed it!
 
@@ -23,104 +23,51 @@ permalink: "/"
 ## Details for connecting
 > Node 1
 > ```
-> host: node1.trglavalink.gq
+> host: n1.trglavalink.gq
 > password: TRGLavaLink
-> port: 1207
+> port: 1595
 > secure: false
 > ```
 
 > Node 2
 > ```
-> host: node2.trglavalink.gq
+> host: n2.trglavalink.gq
 > password: OnionDev
-> port: 1777
+> port: 1357
 > secure: false
 > ```
 
 > Node 3
 > ```
-> host: node3.trglavalink.gq
+> host: n3.trglavalink.gq
 > password: freewh.gq
-> port: 1566
+> port: 1414
 > secure: false
 > ```
 
 > Node 4
 > ```
-> host: node4.trglavalink.gq
-> password: trgop.gq
-> port: 1597
+> host: n4.trglavalink.gq
+> password: trgop
+> port: 2270
 > secure: false
 > ```
 
 > Node 5
 > ```
-> host: node5.trglavalink.gq
-> password: setupmanager.ml
-> port: 1508
+> host: n5.trglavalink.gq
+> password: setupmanager
+> port: 1594
 > secure: false
 > ```
 
 > Node 6
 > ```
-> host: node6.trglavalink.gq
-> password: hometown_official
-> port: 1385
+> host: n6.trglavalink.gq
+> password: hometownofficial
+> port: 1171
 > secure: false
 > ```
-
-## Node Info
-# Node 1
-```
-RAM: 1GB
-Disk: 3GB
-CPU Usage: 1% (Average)
-```
-
----
-
-# Node 2
-```
-RAM: 1GB
-Disk: 3GB
-CPU Usage: 0.95% (Average)
-```
-
----
-
-# Node 3
-```
-RAM: 1GB
-Disk: 3GB
-CPU Usage: 0.92% (Average)
-```
-
----
-
-# Node 4
-```
-RAM: 1GB
-Disk: 3GB
-CPU Usage: 2.40% (Average)
-```
-
----
-
-# Node 5
-```
-RAM: 1GB
-Disk: 3GB
-CPU Usage: 1.65% (Average)
-```
-
----
-
-# Node 6
-```
-RAM: 1GB
-Disk: 3GB
-CPU Usage: 1.69% (Average)
-```
 
 ---
 
