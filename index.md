@@ -23,6 +23,12 @@ permalink: "/"
 ## Details for connecting
 > Node 1
 > ```
+> host: 57.128.136.143
+> port: 30411
+> password: "maybeiwasboring"
+> secure: false
+
+> ```
 > host: n1.trglavalink.gq
 > password: TRGLavaLink
 > port: 1595
